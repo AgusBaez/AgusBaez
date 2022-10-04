@@ -10,7 +10,7 @@
 
 <p>
 <h2>More About Me👨‍💻</h2>
-
+<img align='right' src='https://github.com/AgusBaez/AgusBaez/blob/main/assets/11caa3bd-4c5f-45dd-923e-01f0a70e5e29.jpg?raw=true' width='200"'>
 🧔 I'm Agus. 21 years old, entrepreneur and a lover of code and 🍺.<br/>
 💼 I live in Argentina, Buenos Aires.<br/>
 💻 Web Developer T-Shaped(?) Node.js × Express.<br/>
@@ -22,7 +22,7 @@
 
 > _I love to race in where the weaks fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i love travel._
 
-<img align='right' src='https://github.com/AgusBaez/AgusBaez/blob/main/assets/11caa3bd-4c5f-45dd-923e-01f0a70e5e29.jpg?raw=true' width='200"'>
+
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
+    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   </p>
