@@ -17,8 +17,8 @@
 🎓 Computer Technician.<br/>
 :purple_heart: Love to share my knowledge.<br/>
 :100: Committed to learning about IT.<br/>
-:star: Uniquely naive tho independent(**i see the world as magical**).<br/>
-:apple: In search of professional and personal growth (**open to learning**).
+:star: Uniquely naive tho independent.<br/>
+:apple: In search of professional and personal growth.<br/>
 
 > _I love to race in where the weaks fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i love travel._
 
