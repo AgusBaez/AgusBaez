@@ -1,6 +1,7 @@
 ![Header image](https://github.com/AgusBaez/AgusBaez/blob/main/assets/logo-Gif.gif?raw=true)
 
-  ## 📣🌎 In case you need to contact me ?:<br/>
+## 📣🌎 In case you need to contact me ?:<br/>
+
 <p>
   <a href="mailto:agustinbaezignacio@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.instagram.com/agus._.baez._/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -22,10 +23,7 @@
 
 :apple: In search of professional and personal growth (**open to learning**)
 
-
-
->*I love to race in where the weaks fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i love travel.*
-
+> _I love to race in where the weaks fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i love travel._
 
 <p>
 <img align='right' src='https://github.com/AgusBaez/AgusBaez/blob/main/assets/11caa3bd-4c5f-45dd-923e-01f0a70e5e29.jpg?raw=true' width='200"'>
@@ -44,14 +42,10 @@
   </p>
 </p>
 
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=AgusBaez&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusBaez&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=AgusBaez&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
 <!-- <p align="center">
@@ -67,5 +61,3 @@
 <! ---
 This is a ✨ special ✨ repository because it will have some of the projects I have worked on.
 --->
-
-
