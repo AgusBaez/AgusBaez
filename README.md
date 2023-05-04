@@ -11,7 +11,7 @@
 <p>
 <h2>More About Me👨‍💻</h2>
 <img align='right' src='https://github.com/AgusBaez/AgusBaez/blob/main/assets/11caa3bd-4c5f-45dd-923e-01f0a70e5e29.jpg?raw=true' width='200"'>
-🧔 I'm Agus. 21 years old, entrepreneur and a lover of code and i like Run 🏃🏼‍♂️💨.<br/>
+🧔 I'm Agus. 22 years old, entrepreneur and a lover of code and i like Run 🏃🏼‍♂️💨.<br/>
 💼 I live in Argentina, Buenos Aires.<br/>
 💻 Web Developer T-Shaped(?) Node.js × Express.<br/>
 🎓 Computer Technician.<br/>
